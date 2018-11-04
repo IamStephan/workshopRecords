@@ -1,0 +1,5 @@
+A Few notes about this stupid fucking project
+==============================================
+  -The react.gradle in node_modules/react-native is chanhed to fix the stupid fucking release shit
+  -in gradle.properties android.enableAapt2 is set to true to avoid the fucking duplacate proplem with PNG files in the res folder
+  -There is for some idiotic reason two sdk paths one in the root and the other in appdata/local
